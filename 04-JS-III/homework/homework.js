@@ -133,7 +133,7 @@ function multiplicarArgumentos() {
     total = total * arguments[i] ; 
   }
   return total  
-   
+    
 }
 
 // No modificar nada debajo de esta línea
